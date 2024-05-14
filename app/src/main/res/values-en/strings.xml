@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="btnLlamada">Call</string>
+    <string name="btnAcercade">About</string>
+    <string name="btnVolver">Back</string>
+    <string name="dise_a_y_edita_de_forma_profesional_con_canva_mejora_im_genes_convierte_archivos_pdf_agrega_textos_a_videos_y_m_s_tenemos_una_gran_variedad_de_funciones_ingeniosas_que_llevar_n_tu_contenido_a_otro_nivel_con_solo_unos_clics">"Design and edit professionally with Canva. Enhance images, convert PDF files, add text to videos and more. We have a variety of nifty features that will take your content to the next level, with just a few clicks. "</string>
+    <string name="acerca_de">About</string>
+    <string name="nombre">Name</string>
+    <string name="acceso">Login</string>
+    <string name="salir">Exit</string>
+    <string name="contrase_a">Password</string>
+</resources>
